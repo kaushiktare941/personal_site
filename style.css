@@ -1,0 +1,40 @@
+body{
+    background-color: #F9F6F0;
+    color: #171515;
+}
+
+.main{
+    text-align: center;
+    margin-top: 35px;
+    margin-left: 35px;
+    margin-right: 35px;
+}
+
+.icons{
+    justify-content: space-evenly;
+    text-align: center;
+    margin-left:25px; 
+    margin-right:25px;
+}
+
+.main p{
+    font-size:1.25rem;
+}
+
+.social-icon-space{
+    margin-right:20px;
+    text-decoration: none;
+}
+
+a{
+    color:#C4AE78;
+    text-decoration: none;
+}
+
+a:hover{
+    color:#6F5B3E;
+}
+
+.error-icon{
+    color:#C4AE78;
+}
