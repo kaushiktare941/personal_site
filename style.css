@@ -185,7 +185,7 @@ body{
 
     .container{
         max-width: 90%;
-        top:125px;
+        top:170px;
     }
     .content{
         display: flex;
@@ -243,8 +243,13 @@ body{
         display: flex;
         flex-direction: column;
         align-items: center;
-        top: 300px;
+        top: 250px;
     }
+    /*
+    .reels{
+        top: 50px;
+    }
+    */
     .vfxReel, .colorReel{
         max-width: 100%;
         min-height: 300px;
@@ -264,5 +269,39 @@ body{
         min-width: 300px;
     }
 
+    .header{
+        padding-bottom: 10px;
+    }
+
+    .headerContent{
+        display: flex;
+        flex-direction: column;
+    }
+    .headerExtra{
+        flex-direction: column;
+        gap: 4px;
+    }
+
+    .socials{
+        margin-left: 7px;
+        margin-right: 7px;
+        margin-top: 3px;
+        font-size: smaller;
+    }
+    #description{
+        margin-bottom: 0px;
+    }
+
+    .socials a{
+        background-color: #F2F2F2;
+        padding: 0px 7px;
+        border-radius: .5rem;
+        box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.2);
+        max-height: 50px;
+    }
+
+    .socials a:hover{
+        background-color: lightgray;
+    }
 }
 
