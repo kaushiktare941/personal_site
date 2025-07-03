@@ -1,7 +1,7 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     background-color: #F2F2F2;
-    color: #1F0F0F;
+    color: #F2F2F2;
 }
 
 .container{
@@ -41,7 +41,7 @@ body{
 .vfxReel, .colorReel{
     max-width: 60%;
     min-height: 500px;
-    background-color: #BFA380;
+    background-color: #262626;
     padding: 25px;
     border-radius: 1rem;
     box-shadow: 0 2px 3px rgba(0,0,0,0.4);
@@ -73,7 +73,8 @@ body{
     width: 100%;
     max-width: 95%;
     min-height: 350px;
-    background-color: #BFA380;
+    background-color: #262626;
+    color: white;
     padding: 1rem;
     margin: 0 auto ;
     overflow: wrap;
@@ -119,13 +120,13 @@ body{
 }
 
 .portfolio a:hover{
-    color:#A69586;
+    color:#0D0D0D;
     font-weight: bolder;
     transition: color 0.2s ease-out;
 }
 
 .header{
-    background-color: #BFA380;
+    background-color: #262626;
     position: fixed;
     top: 0;
     left:0;
@@ -167,7 +168,7 @@ body{
 
 .socials a{
     text-decoration: none;
-    color: #1F0F0F;
+    color: #F2F2F2;
 }
 
 .socials h3{
@@ -195,7 +196,7 @@ body{
     }
     .vfxReel{
         max-width: 100%;
-        background-color: #BFA380;
+        background-color: #262626;
         padding: 25px;
         border-radius: 1rem;
         box-shadow: 0 2px 3px rgba(0,0,0,0.4);
@@ -203,7 +204,7 @@ body{
 
     .colorReel{
         max-width: 100%;
-        background-color: #BFA380;
+        background-color: #262626;
         padding: 25px;
         border-radius: 1rem;
         box-shadow: 0 2px 3px rgba(0,0,0,0.4);
@@ -253,7 +254,7 @@ body{
     .vfxReel, .colorReel{
         max-width: 100%;
         min-height: 300px;
-        background-color: #BFA380;
+        background-color: #262626;
         padding: 25px;
         border-radius: 1rem;
         box-shadow: 0 2px 3px rgba(0,0,0,0.4);
